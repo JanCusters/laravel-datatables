@@ -90,6 +90,9 @@ class Builder
         'stateLoadParams',
         'stateSaveCallback',
         'stateSaveParams',
+        'onEditRow',
+        'onAddRow',
+        'onDeleteRow'
     ];
 
     /**
